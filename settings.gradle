@@ -1,0 +1,2 @@
+rootProject.name = "WR Comics"
+include ':app'
